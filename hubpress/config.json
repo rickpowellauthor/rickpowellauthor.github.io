@@ -1,7 +1,7 @@
 {
   "meta": {
-    "rickpowellauthor": "put your username here",
-    "rickpowellauthor.github.io": "put your repository name here",
+    "username": "rickpowellauthor",
+    "repositoryName": "rickpowellauthor.github.io",
     "branch": "master"
   },
   "theme": {
